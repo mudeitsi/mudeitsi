@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Minayo Esere</h1>
-<h3 align="center">A passionate frontend developer from Kenya.</h3>
+<h3 align="center">A passionate junior full-stack developer from Kenya.</h3>
 
-- 🔭 I’m currently working on **ALX-Introduction to Software Engineering**
+- 🔭 I’m currently working on **An E-commerce Website and Personal Portfolio Website**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Python, SQL, Flask**
+- 🌱 I’m currently learning **React.js, Node.js, PHP and Laravel framework**
 
-- 💬 Ask me about **HTML CSS Javascript Python SQL Flask**
+- 💬 Ask me about **Responsive Design | HTML | CSS - Tailwind CSS & Bootstrap | Javascript | Python -Flask and Jinja | SQL(MySQL) | Figma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
